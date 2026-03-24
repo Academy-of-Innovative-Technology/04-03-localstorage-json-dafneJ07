@@ -2,3 +2,323 @@ html {
   height: 100%;
   width: 100%;
 }
+
+:root {
+  --primary-color: #1565C0;
+  --secondary-color: #FDD835;
+  --accent-color: #D32F2F;
+  --dark-color: #1a1a1a;
+  --light-color: #f5f5f5;
+  --white: #ffffff;
+  --shadow: 0 2px 8px rgba(0,0,0,0.1);
+}
+
+/* Base Styles */
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  font-family: 'Comic Neue', cursive, sans-serif;
+  background: linear-gradient(135deg, #1a1a2e 0%, #16213e 50%, #0f3460 100%);
+  min-height: 100vh;
+  color: var(--dark-color);
+  line-height: 1.6;
+}
+
+/* Header */
+.comic-header {
+  background: linear-gradient(180deg, var(--secondary-color) 0%, #FFC107 100%);
+  border-bottom: 4px solid var(--dark-color);
+  padding: 2rem 0;
+  text-align: center;
+  box-shadow: 0 4px 12px rgba(0,0,0,0.3);
+}
+
+.logo-badge {
+  width: 60px;
+  height: 60px;
+  background: var(--primary-color);
+  border: 3px solid var(--dark-color);
+  border-radius: 50%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-family: 'Bangers', cursive;
+  font-size: 2rem;
+  color: var(--secondary-color);
+  margin: 0 auto 1rem;
+  box-shadow: 3px 3px 0 var(--dark-color);
+}
+
+.main-title {
+  font-family: 'Bangers', cursive;
+  font-size: 2.5rem;
+  color: var(--dark-color);
+  text-shadow: 2px 2px 0 var(--white);
+  margin-bottom: 0.5rem;
+}
+
+.subtitle {
+  font-family: 'Roboto Condensed', sans-serif;
+  font-size: 1rem;
+  font-weight: 700;
+  color: var(--accent-color);
+  letter-spacing: 3px;
+  text-transform: uppercase;
+}
+
+.storage-indicator {
+  margin-top: 1rem;
+}
+
+.storage-indicator .badge {
+  font-family: 'Roboto Condensed', sans-serif;
+  font-size: 0.75rem;
+  padding: 0.4rem 0.8rem;
+  border: 2px solid var(--dark-color);
+}
+
+/* Stats Bar */
+.stats-bar {
+  background: var(--white);
+  border: 3px solid var(--dark-color);
+  border-radius: 10px;
+  padding: 1.5rem;
+  box-shadow: var(--shadow);
+}
+
+.stat-card {
+  text-align: center;
+  padding: 1rem;
+  background: var(--light-color);
+  border: 2px solid var(--dark-color);
+  border-radius: 8px;
+}
+
+.stat-number {
+  display: block;
+  font-family: 'Bangers', cursive;
+  font-size: 2rem;
+  color: var(--primary-color);
+}
+
+.stat-label {
+  display: block;
+  font-family: 'Roboto Condensed', sans-serif;
+  font-size: 0.8rem;
+  font-weight: 700;
+  color: var(--dark-color);
+  text-transform: uppercase;
+}
+
+/* Mutant Cards */
+.mutant-card {
+  background: var(--white);
+  border: 3px solid var(--dark-color);
+  border-radius: 12px;
+  overflow: hidden;
+  box-shadow: var(--shadow);
+  transition: transform 0.2s ease, box-shadow 0.2s ease;
+  height: 100%;
+}
+
+.mutant-card:hover {
+  transform: translateY(-5px);
+  box-shadow: 0 8px 20px rgba(0,0,0,0.2);
+}
+
+.mutant-image-container {
+  position: relative;
+  height: 280px;
+  overflow: hidden;
+  border-bottom: 3px solid var(--dark-color);
+  background: #2c3e50;
+}
+
+.mutant-image {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  object-position: top center;
+}
+
+.mutant-alias-badge {
+  position: absolute;
+  bottom: -12px;
+  left: 50%;
+  transform: translateX(-50%);
+  background: var(--secondary-color);
+  border: 2px solid var(--dark-color);
+  padding: 0.4rem 1.2rem;
+  font-family: 'Bangers', cursive;
+  font-size: 1.1rem;
+  color: var(--dark-color);
+  box-shadow: 2px 2px 0 var(--dark-color);
+  z-index: 10;
+  white-space: nowrap;
+}
+
+.mutant-body {
+  padding: 1.5rem 1rem 1rem;
+}
+
+.mutant-real-name {
+  font-family: 'Roboto Condensed', sans-serif;
+  font-size: 0.85rem;
+  color: #666;
+  text-align: center;
+  margin-bottom: 1rem;
+  font-weight: 700;
+  text-transform: uppercase;
+}
+
+/* Profile Section */
+.profile-section {
+  background: var(--light-color);
+  border: 2px solid var(--dark-color);
+  border-radius: 6px;
+  padding: 0.75rem;
+  margin-bottom: 1rem;
+}
+
+.profile-title {
+  font-family: 'Bangers', cursive;
+  font-size: 0.9rem;
+  color: var(--primary-color);
+  margin-bottom: 0.5rem;
+  text-transform: uppercase;
+}
+
+.profile-grid {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  gap: 0.4rem;
+}
+
+.profile-item {
+  font-size: 0.8rem;
+}
+
+.profile-label {
+  font-weight: 700;
+  color: #666;
+}
+
+.profile-value {
+  color: var(--dark-color);
+}
+
+/* Powers Section */
+.powers-section {
+  margin-bottom: 1rem;
+}
+
+.section-title {
+  font-family: 'Bangers', cursive;
+  font-size: 1rem;
+  color: var(--accent-color);
+  margin-bottom: 0.5rem;
+}
+
+.powers-list {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+
+.power-item {
+  background: linear-gradient(90deg, var(--secondary-color) 0%, #fff 100%);
+  border-left: 3px solid var(--dark-color);
+  padding: 0.3rem 0.6rem;
+  margin-bottom: 0.3rem;
+  font-size: 0.85rem;
+  font-weight: 600;
+}
+
+/* Affiliations */
+.affiliations-section {
+  margin-top: 1rem;
+}
+
+.affiliations-list {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.4rem;
+}
+
+.affiliation-badge {
+  background: var(--primary-color);
+  color: var(--white);
+  border: 2px solid var(--dark-color);
+  padding: 0.2rem 0.6rem;
+  font-size: 0.7rem;
+  font-weight: 700;
+  font-family: 'Roboto Condensed', sans-serif;
+  text-transform: uppercase;
+}
+
+.affiliation-badge.x-men {
+  background: var(--secondary-color);
+  color: var(--dark-color);
+}
+
+.affiliation-badge.brotherhood {
+  background: var(--accent-color);
+  color: var(--white);
+}
+
+.affiliation-badge.avengers {
+  background: #6a1b9a;
+  color: var(--white);
+}
+
+/* Footer */
+.comic-footer {
+  background: var(--dark-color);
+  border-top: 4px solid var(--secondary-color);
+  padding: 1.5rem 0;
+  margin-top: 3rem;
+}
+
+.footer-text {
+  font-family: 'Bangers', cursive;
+  font-size: 1.2rem;
+  color: var(--secondary-color);
+  letter-spacing: 2px;
+  margin-bottom: 0.25rem;
+}
+
+.footer-sub {
+  font-family: 'Comic Neue', cursive;
+  color: var(--white);
+  font-size: 0.8rem;
+  opacity: 0.8;
+}
+
+/* Responsive Adjustments */
+@media (max-width: 768px) {
+  .main-title {
+    font-size: 1.8rem;
+  }
+  
+  .mutant-image-container {
+    height: 220px;
+  }
+  
+  .stat-card {
+    margin-bottom: 0.5rem;
+  }
+}
+
+/* Gender-based accent colors */
+.mutant-card[data-gender="Male"] .mutant-alias-badge {
+  background: #4FC3F7;
+}
+
+.mutant-card[data-gender="Female"] .mutant-alias-badge {
+  background: #F48FB1;
+}
+

